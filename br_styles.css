@@ -6,10 +6,13 @@
    Case Problem 4
    
    Browyer Realty Layout Styles
-   Author: 
-   Date: 
+   Author: Dajah Medina
+   Date: 11.14.18
 	
    Filename: br_styles.css
 
 */
-
+body>header img {
+    display: block;
+    width: 100%;
+}
