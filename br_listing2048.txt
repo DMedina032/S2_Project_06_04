@@ -60,3 +60,15 @@ Image 7: Bedroom 1
 Image 8: Bedroom 2
 Image 9: Bedroom 3
 
+
+
+
+      <img src="br_photo1.png" alt="Front View" />
+        <img src="br_photo2.png" alt="Rear View" />
+        <img src="br_photo3.png" alt="Side View" />
+        <img src="br_photo4.png" alt="Dining Room" />
+        <img src="br_photo5.png" alt="Kitchen" />
+        <img src="br_photo6.png" alt="Living Room" />
+        <img src="br_photo7.png" alt="Bedroom 1" />
+        <img src="br_photo8.png" alt="Bedroom 2" />
+        <img src="br_photo9.png" alt="Bedroom 3" />

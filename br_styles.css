@@ -7,12 +7,62 @@
    
    Browyer Realty Layout Styles
    Author: Dajah Medina
-   Date: 11.14.18
+   Date: 11.13.18
 	
    Filename: br_styles.css
 
 */
-body>header img {
-    display: block;
+
+html {
     width: 100%;
+    background-color: url(br_logo.png);
+}
+
+body {
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 940px;
+    min-width: 620px;
+}
+
+header img {
+    width: 100%;
+}
+
+nav.horizontal {
+    display: table;
+    width: 100%;
+}
+
+nav.horizontal ul {
+    display: table-row;
+}
+
+nav.horizontal ul li {
+    display: table-cell;
+    padding: 20px;
+    background-color: rgb(196, 238, 255);
+}
+
+nav.horizontal a {
+    padding: 5px;
+    width: 100%;
+}
+
+
+body>header img {
+    background-color: transparent;
+    display: table;
+    width: 100%;
+}
+
+
+footer {
+    background-color: rgb(208, 208, 226);
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
 }
